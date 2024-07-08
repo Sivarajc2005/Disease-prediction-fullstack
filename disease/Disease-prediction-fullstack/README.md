@@ -1,0 +1,2 @@
+# Disease-prediction-fullstack
+ here i uploded my ml model on the " static " folder after downloaded it you need to cahnge the location of the model on " disease.py " file  and you also make sure you downloaded all necessary libraries from the python -  and go to "app.py " and run the program you can see the local-host url on the terminal just copy past on your chrome browser , ther you experience the project
